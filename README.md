@@ -1,6 +1,6 @@
 # Google AdWords Click-to-Call Code
 
-1. The <script> tags *must* appear within the <head></head> tags at the top of the page.
+1. The &lt;script&gt; tags *must* appear within the &lt;head&gt;&lt;/head&gt; tags at the top of the page.
 2. The $ak_code and $cl_code come from Google
 3. The $phone variable is how the phone number will appear on the page.
 4. The $phone_a variable allows the phone number to be clicked on a mobile device.
